@@ -9,4 +9,7 @@ public class TestController {
     public void test(){
         System.out.println("哈哈哈哈哈");
     }
+    public void testBranch(){
+        System.out.println("创建了一个分支");
+    }
 }
