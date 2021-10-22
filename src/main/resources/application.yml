@@ -6,4 +6,5 @@ spring:
   application:
     name: mp
 
-
+logging:
+  level: debug
