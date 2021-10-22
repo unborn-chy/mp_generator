@@ -4,6 +4,6 @@ spring:
     username: root
     password: 123456
   application:
-    name: mp
+    name: mp555
 
 
