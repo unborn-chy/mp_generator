@@ -5,6 +5,9 @@ spring:
     password: 123456
   application:
     name: mp555
+  application:
+    name: mp555
+
 
 logging:
   level: debug
